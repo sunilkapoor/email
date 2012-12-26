@@ -1,0 +1,38 @@
+/* 
+    Document   : my
+    Created on : Nov 1, 2012, 5:26:07 AM
+    Author     : hp
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+ul.footer-nevigation{
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+ul.footer-nevigation li{
+  display: inline;
+  margin: 0 10px 0 0;
+}
+
+ul.header-nevigation{
+  list-style: none;
+  margin: 0 0 10px 0;
+  padding:0;
+}
+ul.header-nevigation li{
+  display: inline;
+  margin: 0 10px 0 0;
+  padding: 5px 10px 5px 10px;
+  border: 1px solid #002166;
+}
+
+h3.page-heading{font-size: 1.7em;}
+hr{
+  margin:0;
+  padding:0
+}
+
+.error_group p {margin:0;padding:0}
+.error_group {border: 2px solid red}
